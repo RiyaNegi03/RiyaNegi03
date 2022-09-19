@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Riyanegi7997@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/riya-negi-601084210/</h3>
 <p align="left">
 </p>
 
