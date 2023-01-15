@@ -23,7 +23,7 @@
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyanegi03" alt="riyanegi03" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <!----------------social media connect------------->
@@ -62,6 +62,8 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RiyaNegi03&theme=default" />
   
 </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyanegi03" alt="riyanegi03" /></a> </p>
 
 
 
