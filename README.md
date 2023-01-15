@@ -23,6 +23,8 @@
 </p>
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyanegi03" alt="riyanegi03" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <!----------------social media connect------------->
 
@@ -50,12 +52,15 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,maven,aws,hibernate,js,html,css,eclipse,git,github,netlify,vscode)](https://skillicons.dev)
 
 
+
+
+
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RiyaNegi03&show_icons=true&theme=default&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyanegi03&show_icons=true&locale=en&layout=compact" alt="riyanegi03" " />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RiyaNegi03&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaNegi03&theme=default&count_private=true" align="center" />
+  
 </p>
 
 
